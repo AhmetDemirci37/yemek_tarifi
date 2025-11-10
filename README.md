@@ -74,3 +74,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 Ahmet Demirci - [GitHub](https://github.com/AhmetDemirci37)
 
 Proje Linki: [https://github.com/AhmetDemirci37/Yemek_app](https://github.com/AhmetDemirci37/Yemek_app)
+
+## Be sure to visit us.
+
+Adres : https://www.instagram.com/eylencebilgi
+Adres : https://www.youtube.com/@Eylencebilgi
+Adres : https://www.tiktok.com/@eylencebilgi
