@@ -65,7 +65,7 @@ export default function App() {
       {/* Main content with scrollable sections */}
       <ScrollView style={styles.content} showsVerticalScrollIndicator={false}>
         {/* Ana Yemek Section */}
-        <View>
+          <View style={styles.section}>
           <Text style={styles.sectionTitle}>Ana Yemekler</Text>
           <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.scrollView}>
             <TouchableOpacity style={styles.productCard}>
@@ -288,6 +288,7 @@ const styles = StyleSheet.create({
   },
   section: {
     marginTop: 24, // kategoriler arası boşluk
+    height:330,
   },
   bottomNav: {
     flexDirection: 'row',
